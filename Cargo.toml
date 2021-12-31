@@ -1,0 +1,9 @@
+[package]
+name = "simple_os"
+version = "0.1.0"
+edition = "2018"
+authors = ["Jake Martin"]
+description = "A simple OS built by following the blog here: https://os.phil-opp.com/"
+
+[dependencies]
+bootloader = "0.9.8"
